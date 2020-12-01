@@ -1,0 +1,337 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    background-color: #332E2E!important; /*obrigada a ser esse background color*/
+    margin: 0;
+    top: 0;
+    left: 0;
+}
+
+.container{
+    margin-top:71px;
+}
+
+/* ------------------- Tela de Login -------------------*/
+.login{
+    min-width: 24.817%;
+}
+
+.login svg{
+    width: 96px;
+    margin-bottom: 2.018%;
+}
+
+.login a, label{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140.62%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.login a:hover{
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+.login input:not(.btn){
+    margin-bottom: 14px;
+}
+
+.login .form-group{
+    max-width: 339px;
+}
+
+.login .btn{
+    min-width: 53.39%;
+}
+
+.btn-cadastro{
+    margin-top: 48px
+}
+
+/* ------------------- Tela de Menu -------------------*/
+nav.menu-header{
+    background: rgba(15, 13, 13);
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+nav .username{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140.62%;
+    color: #FFFFFF;
+    padding-left: 12px;
+    padding-right: 46px;
+    text-align: end;
+}
+
+.userimage{
+    width: 25px;
+}
+
+nav.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding: 114px 12px 43px;
+    background-color: #201D1D;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.menu-item{
+    margin-bottom: 26px;
+    padding: 0 0 10px;
+}
+
+.menu-item:hover{
+    border-bottom: 2px solid #EF9713;
+}
+
+.center{
+    justify-content: center;
+    align-content: center;
+}
+
+.menu-padding{
+    padding: 0 0 0 74px;
+    height: 100%;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 140.62%;
+    color:#ffffff;
+    margin-bottom: 55px;
+}
+
+.btn-menu svg{
+    width: 55px;
+}
+
+.btn-config {
+    width: 30px;
+}
+
+.btn-logout{
+    width: 26px;
+}
+
+/* ------------------- Tela de Esqueci Senha -------------------*/
+
+.esqueci-senha{
+    min-width: 35.58%;
+}
+
+.esqueci-senha .btn{
+    min-width: 37.24%;
+}
+
+/* ------------------- Tela de Cadastro -------------------*/
+
+.cadastro{
+    min-width: 58.35%;
+}
+
+.cadastro .form-group{
+    margin-bottom: 32px;
+}
+
+.cadastro .row:first-child label{
+    margin-bottom: 44px;
+}
+
+.cadastro .btn{
+    min-width: 22.71%;
+}
+
+/* ------------------- Tela Nova Senha -------------------*/
+
+.nova-senha{
+    min-width: 19.77%;    
+}
+
+.nova-senha input, .nova-senha .row:first-child label{
+    margin-bottom: 32px;
+}
+
+.nova-senha .btn{
+    margin-top: 0px;
+    min-width: 67.04%;
+} 
+
+/* ------------------- Tela Informações -------------------*/
+
+.configuracoes{
+    min-width: 71.803%;
+}
+
+/* ------------------- Tela Informações -------------------*/
+
+.sobre-equipe{
+    max-width: 59.1%;;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sobre-equipe p.elementos.text-justify, .title{
+    margin-bottom: 31px;
+}
+
+.dev-img{
+    margin-right: 25px;
+}
+
+/* ------------------- Tela Fale Conosco -------------------*/
+
+.fale-conosco textarea{
+    margin-bottom: 15px;
+    max-height: 286px;
+    resize: unset;
+}
+
+.fale-conosco .btn{
+    min-width: 28.50%;
+}
+
+/* ------------------- Tela de Tabelas -------------------*/
+
+table{
+    background-color: #fff;
+}
+
+.pagination-detail{
+    color: #fff;
+}
+
+table .btn{
+    width: 50px;
+    height: 40px;
+    border: none;
+}
+
+.form-tables .btn{
+    min-width: 14.59%;
+}
+
+/* ------------------- Tela de Municipios -------------------*/
+
+.municipio .row{
+    margin-top: 50px;
+}
+
+/* ------------------- Elementos Gerais -------------------*/
+
+.btn {
+    height: 40px; /*46x*/
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140.62%;
+    border-radius: 20px;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
+
+.btn-action:hover{
+    background: #bf790f;
+    color: #ffffff;
+}
+
+.btn-action{
+    background: #EF9713;
+    color: #ffffff;
+}
+
+.btn-delete{
+    background: #917E7E;
+    color: #ffffff;
+}
+
+.btn-delete:hover:not(:disabled){
+    background: #ab9b9b;
+    color: #000000;
+}
+
+.elementos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140.62%;
+    color: #ffffff;
+}
+
+/* ------------------- Mensagens -------------------*/
+
+.msg{
+    margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.error {
+    margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: var(--red);
+}
+
+.error--hidden, .sucess--hidden, .msg--hidden {
+    display: none;
+}
+
+.sucess {
+    margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: var(--green);
+}
+
+
+.loading {
+    width: 128px;
+    height: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    /*display: none;*/
+    background: url(/static/picture/loading.gif) no-repeat;
+    cursor: wait;
+}
+
+/* MAPS Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+    height: 400px;
+}
+
+
+/* Optional: Makes the sample page fill the window. 
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}*/
+      

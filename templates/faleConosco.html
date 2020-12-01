@@ -1,0 +1,43 @@
+{% extends 'menu.html' %} 
+
+{%block title%}
+  Fale Conosco
+{% endblock %}
+
+{% block page %}      
+  <div class="d-flex flex-column align-items-center justify-content-center h-100">
+    <form action="#" name="faleConosco_form" class="fale-conosco w-100">
+      <div class="row"> 
+        <div class="col-7">
+          <label class="title">
+            Fale Conosco          
+          </label>
+          <br>
+
+          <input class="w-100" name="assunto" type="text" placeholder="Assunto:" required>
+          <br>
+          <br>
+          <textarea name="mensagem" class="form-control" id="textArea" rows="10" required></textarea>
+          
+          <p  class="msg msg--hidden">
+                  
+          </p>
+          
+          <!--<div class="loading"></div>-->
+          <div align="right">
+            <input type="submit" class="btn btn-action" align="center" value="Enviar">
+          </div>
+
+
+        </div>
+        <div class="col-5">
+          <div class="text-center">
+            <img src="{{ url_for('static', filename='picture/notebook.svg') }}">
+          </div>
+        </div>
+      </div>    
+    </form>
+  </div>
+      
+  <script src="{{ url_for('static', filename='js/faleConosco.js') }}"></script>
+{% endblock %}

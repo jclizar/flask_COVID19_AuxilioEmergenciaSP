@@ -1,0 +1,47 @@
+{% extends 'menu.html' %} 
+
+{%block title%}
+  Gráficos
+{% endblock %}  
+      
+{% block page %}
+  <script src="{{ url_for('static', filename='/chart.js/dist/Chart.min.js') }}"></script>
+  
+  <div class="d-flex flex-column justify-content-center municipio">
+    <form name="form-busca-municipio" class="form-busca-municipio w-100">    
+      <div class="row"> 
+        <div class="col-5">
+          <select name="municipio" class="form-control">
+            {% for municipio in municipios %}
+              <option value="{{municipio['_id']}}">
+                  {{municipio['nomeIBGE']}}
+              </option>
+            {% endfor %}          
+          </select>
+        </div>
+        <div class="col-7">
+          <button name="buscar" type="button" class="btn btn-action" align="center" onclick="carregar_graficos()">
+            Buscar
+          </button>
+        </div>
+      </div>              
+    </form>
+    <div class="row">
+      <div class="col-6">
+        <div class="chart1" >
+          <canvas id="grafico-por-mes">
+          </canvas>
+        </div>
+      </div>
+      <div class="col-6">
+        <div class="chart2">
+          <canvas  id="grafico-total">
+          </canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='/js/graficos.js') }}"></script>
+{% endblock %}
+

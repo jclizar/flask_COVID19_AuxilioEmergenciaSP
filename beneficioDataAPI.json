@@ -1,0 +1,1802 @@
+[
+    {
+        "_id": 3500105,
+        "flag": 0,
+        "codigoIBGE": 3500105,
+        "nomeIBGE": "Adamantina",
+        "uf": "SP",
+        "populacao": 35111,
+        "latitude": -21.682,
+        "longitude": -51.0737,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 3063600,
+                "quantidadeBeneficiados": 4546
+            },
+            "m05": {
+                "valor": 4326600,
+                "quantidadeBeneficiados": 6297
+            },
+            "m06": {
+                "valor": 2247600,
+                "quantidadeBeneficiados": 3332
+            },
+            "m07": {
+                "valor": 4554000,
+                "quantidadeBeneficiados": 6830
+            },
+            "m08": {
+                "valor": 3540600,
+                "quantidadeBeneficiados": 5319
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500204,
+        "flag": 1,
+        "codigoIBGE": 3500204,
+        "nomeIBGE": "Adolfo",
+        "uf": "SP",
+        "populacao": 3554,
+        "latitude": -21.2325,
+        "longitude": -49.6451,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 653400,
+                "quantidadeBeneficiados": 970
+            },
+            "m05": {
+                "valor": 801000,
+                "quantidadeBeneficiados": 1162
+            },
+            "m06": {
+                "valor": 433800,
+                "quantidadeBeneficiados": 634
+            },
+            "m07": {
+                "valor": 825000,
+                "quantidadeBeneficiados": 1227
+            },
+            "m08": {
+                "valor": 667800,
+                "quantidadeBeneficiados": 991
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500303,
+        "flag": 2,
+        "codigoIBGE": 3500303,
+        "nomeIBGE": "Aguaí",
+        "uf": "SP",
+        "populacao": 36648,
+        "latitude": -22.0572,
+        "longitude": -46.9735,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 4544400,
+                "quantidadeBeneficiados": 6334
+            },
+            "m05": {
+                "valor": 5700000,
+                "quantidadeBeneficiados": 7928
+            },
+            "m06": {
+                "valor": 3452400,
+                "quantidadeBeneficiados": 4768
+            },
+            "m07": {
+                "valor": 5988000,
+                "quantidadeBeneficiados": 8512
+            },
+            "m08": {
+                "valor": 4881600,
+                "quantidadeBeneficiados": 6877
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500402,
+        "flag": 3,
+        "codigoIBGE": 3500402,
+        "nomeIBGE": "Águas da Prata",
+        "uf": "SP",
+        "populacao": 8221,
+        "latitude": -21.9319,
+        "longitude": -46.7176,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 945600,
+                "quantidadeBeneficiados": 1426
+            },
+            "m05": {
+                "valor": 1202400,
+                "quantidadeBeneficiados": 1803
+            },
+            "m06": {
+                "valor": 663000,
+                "quantidadeBeneficiados": 998
+            },
+            "m07": {
+                "valor": 1273200,
+                "quantidadeBeneficiados": 1950
+            },
+            "m08": {
+                "valor": 997200,
+                "quantidadeBeneficiados": 1526
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500501,
+        "flag": 4,
+        "codigoIBGE": 3500501,
+        "nomeIBGE": "Águas de Lindóia",
+        "uf": "SP",
+        "populacao": 18808,
+        "latitude": -22.4733,
+        "longitude": -46.6314,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 2125800,
+                "quantidadeBeneficiados": 3143
+            },
+            "m05": {
+                "valor": 2977200,
+                "quantidadeBeneficiados": 4380
+            },
+            "m06": {
+                "valor": 1611000,
+                "quantidadeBeneficiados": 2375
+            },
+            "m07": {
+                "valor": 3138600,
+                "quantidadeBeneficiados": 4693
+            },
+            "m08": {
+                "valor": 2551800,
+                "quantidadeBeneficiados": 3768
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500550,
+        "flag": 5,
+        "codigoIBGE": 3500550,
+        "nomeIBGE": "Águas de Santa Bárbara",
+        "uf": "SP",
+        "populacao": 6109,
+        "latitude": -22.8812,
+        "longitude": -49.2421,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 943200,
+                "quantidadeBeneficiados": 1369
+            },
+            "m05": {
+                "valor": 1128000,
+                "quantidadeBeneficiados": 1615
+            },
+            "m06": {
+                "valor": 681600,
+                "quantidadeBeneficiados": 975
+            },
+            "m07": {
+                "valor": 1171200,
+                "quantidadeBeneficiados": 1710
+            },
+            "m08": {
+                "valor": 951000,
+                "quantidadeBeneficiados": 1385
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500600,
+        "flag": 6,
+        "codigoIBGE": 3500600,
+        "nomeIBGE": "Águas de São Pedro",
+        "uf": "SP",
+        "populacao": 3521,
+        "latitude": -22.5977,
+        "longitude": -47.8734,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 362400,
+                "quantidadeBeneficiados": 538
+            },
+            "m05": {
+                "valor": 540600,
+                "quantidadeBeneficiados": 803
+            },
+            "m06": {
+                "valor": 287400,
+                "quantidadeBeneficiados": 428
+            },
+            "m07": {
+                "valor": 592200,
+                "quantidadeBeneficiados": 888
+            },
+            "m08": {
+                "valor": 456600,
+                "quantidadeBeneficiados": 687
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500709,
+        "flag": 7,
+        "codigoIBGE": 3500709,
+        "nomeIBGE": "Agudos",
+        "uf": "SP",
+        "populacao": 37401,
+        "latitude": -22.4694,
+        "longitude": -48.9863,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 4278000,
+                "quantidadeBeneficiados": 6221
+            },
+            "m05": {
+                "valor": 5744400,
+                "quantidadeBeneficiados": 8294
+            },
+            "m06": {
+                "valor": 3243600,
+                "quantidadeBeneficiados": 4704
+            },
+            "m07": {
+                "valor": 6025800,
+                "quantidadeBeneficiados": 8867
+            },
+            "m08": {
+                "valor": 4782600,
+                "quantidadeBeneficiados": 7034
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500758,
+        "flag": 8,
+        "codigoIBGE": 3500758,
+        "nomeIBGE": "Alambari",
+        "uf": "SP",
+        "populacao": 6129,
+        "latitude": -23.5503,
+        "longitude": -47.898,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 697200,
+                "quantidadeBeneficiados": 1036
+            },
+            "m05": {
+                "valor": 919200,
+                "quantidadeBeneficiados": 1344
+            },
+            "m06": {
+                "valor": 539400,
+                "quantidadeBeneficiados": 795
+            },
+            "m07": {
+                "valor": 969000,
+                "quantidadeBeneficiados": 1442
+            },
+            "m08": {
+                "valor": 763800,
+                "quantidadeBeneficiados": 1137
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500808,
+        "flag": 9,
+        "codigoIBGE": 3500808,
+        "nomeIBGE": "Alfredo Marcondes",
+        "uf": "SP",
+        "populacao": 4184,
+        "latitude": -21.9527,
+        "longitude": -51.413999999999994,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 574800,
+                "quantidadeBeneficiados": 871
+            },
+            "m05": {
+                "valor": 687000,
+                "quantidadeBeneficiados": 1029
+            },
+            "m06": {
+                "valor": 405000,
+                "quantidadeBeneficiados": 597
+            },
+            "m07": {
+                "valor": 702600,
+                "quantidadeBeneficiados": 1073
+            },
+            "m08": {
+                "valor": 582000,
+                "quantidadeBeneficiados": 868
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3500907,
+        "flag": 10,
+        "codigoIBGE": 3500907,
+        "nomeIBGE": "Altair",
+        "uf": "SP",
+        "populacao": 4186,
+        "latitude": -20.5242,
+        "longitude": -49.0571,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 511200,
+                "quantidadeBeneficiados": 723
+            },
+            "m05": {
+                "valor": 631800,
+                "quantidadeBeneficiados": 880
+            },
+            "m06": {
+                "valor": 376800,
+                "quantidadeBeneficiados": 526
+            },
+            "m07": {
+                "valor": 651600,
+                "quantidadeBeneficiados": 932
+            },
+            "m08": {
+                "valor": 525600,
+                "quantidadeBeneficiados": 746
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501004,
+        "flag": 11,
+        "codigoIBGE": 3501004,
+        "nomeIBGE": "Altinópolis",
+        "uf": "SP",
+        "populacao": 16203,
+        "latitude": -21.0214,
+        "longitude": -47.3712,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 2188200,
+                "quantidadeBeneficiados": 3140
+            },
+            "m05": {
+                "valor": 2694600,
+                "quantidadeBeneficiados": 3869
+            },
+            "m06": {
+                "valor": 1601400,
+                "quantidadeBeneficiados": 2247
+            },
+            "m07": {
+                "valor": 2766000,
+                "quantidadeBeneficiados": 4034
+            },
+            "m08": {
+                "valor": 2274000,
+                "quantidadeBeneficiados": 3279
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501103,
+        "flag": 12,
+        "codigoIBGE": 3501103,
+        "nomeIBGE": "Alto Alegre",
+        "uf": "SP",
+        "populacao": 4088,
+        "latitude": -21.5811,
+        "longitude": -50.168,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 537600,
+                "quantidadeBeneficiados": 805
+            },
+            "m05": {
+                "valor": 668400,
+                "quantidadeBeneficiados": 980
+            },
+            "m06": {
+                "valor": 387000,
+                "quantidadeBeneficiados": 569
+            },
+            "m07": {
+                "valor": 703800,
+                "quantidadeBeneficiados": 1055
+            },
+            "m08": {
+                "valor": 584400,
+                "quantidadeBeneficiados": 868
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501152,
+        "flag": 13,
+        "codigoIBGE": 3501152,
+        "nomeIBGE": "Alumínio",
+        "uf": "SP",
+        "populacao": 18767,
+        "latitude": -23.5306,
+        "longitude": -47.2546,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 2073000,
+                "quantidadeBeneficiados": 2907
+            },
+            "m05": {
+                "valor": 2704800,
+                "quantidadeBeneficiados": 3798
+            },
+            "m06": {
+                "valor": 1704000,
+                "quantidadeBeneficiados": 2387
+            },
+            "m07": {
+                "valor": 2893800,
+                "quantidadeBeneficiados": 4122
+            },
+            "m08": {
+                "valor": 2413800,
+                "quantidadeBeneficiados": 3422
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501202,
+        "flag": 14,
+        "codigoIBGE": 3501202,
+        "nomeIBGE": "Álvares Florence",
+        "uf": "SP",
+        "populacao": 3647,
+        "latitude": -20.3203,
+        "longitude": -49.9141,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 445800,
+                "quantidadeBeneficiados": 679
+            },
+            "m05": {
+                "valor": 585000,
+                "quantidadeBeneficiados": 864
+            },
+            "m06": {
+                "valor": 334800,
+                "quantidadeBeneficiados": 510
+            },
+            "m07": {
+                "valor": 595800,
+                "quantidadeBeneficiados": 914
+            },
+            "m08": {
+                "valor": 457200,
+                "quantidadeBeneficiados": 699
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501301,
+        "flag": 15,
+        "codigoIBGE": 3501301,
+        "nomeIBGE": "Álvares Machado",
+        "uf": "SP",
+        "populacao": 24998,
+        "latitude": -22.0764,
+        "longitude": -51.4722,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 3483600,
+                "quantidadeBeneficiados": 4962
+            },
+            "m05": {
+                "valor": 4310400,
+                "quantidadeBeneficiados": 6135
+            },
+            "m06": {
+                "valor": 2790600,
+                "quantidadeBeneficiados": 3921
+            },
+            "m07": {
+                "valor": 4473000,
+                "quantidadeBeneficiados": 6507
+            },
+            "m08": {
+                "valor": 3735000,
+                "quantidadeBeneficiados": 5346
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501400,
+        "flag": 16,
+        "codigoIBGE": 3501400,
+        "nomeIBGE": "Álvaro de Carvalho",
+        "uf": "SP",
+        "populacao": 5274,
+        "latitude": -22.0841,
+        "longitude": -49.718999999999994,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 568200,
+                "quantidadeBeneficiados": 829
+            },
+            "m05": {
+                "valor": 634200,
+                "quantidadeBeneficiados": 904
+            },
+            "m06": {
+                "valor": 397200,
+                "quantidadeBeneficiados": 561
+            },
+            "m07": {
+                "valor": 630600,
+                "quantidadeBeneficiados": 924
+            },
+            "m08": {
+                "valor": 531600,
+                "quantidadeBeneficiados": 763
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501509,
+        "flag": 17,
+        "codigoIBGE": 3501509,
+        "nomeIBGE": "Alvinlândia",
+        "uf": "SP",
+        "populacao": 3237,
+        "latitude": -22.4435,
+        "longitude": -49.7623,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 473400,
+                "quantidadeBeneficiados": 695
+            },
+            "m05": {
+                "valor": 539400,
+                "quantidadeBeneficiados": 782
+            },
+            "m06": {
+                "valor": 304800,
+                "quantidadeBeneficiados": 434
+            },
+            "m07": {
+                "valor": 547800,
+                "quantidadeBeneficiados": 810
+            },
+            "m08": {
+                "valor": 458400,
+                "quantidadeBeneficiados": 671
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501608,
+        "flag": 18,
+        "codigoIBGE": 3501608,
+        "nomeIBGE": "Americana",
+        "uf": "SP",
+        "populacao": 242018,
+        "latitude": -22.7374,
+        "longitude": -47.3331,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 21107400,
+                "quantidadeBeneficiados": 30316
+            },
+            "m05": {
+                "valor": 29556600,
+                "quantidadeBeneficiados": 42635
+            },
+            "m06": {
+                "valor": 17568000,
+                "quantidadeBeneficiados": 25481
+            },
+            "m07": {
+                "valor": 31721400,
+                "quantidadeBeneficiados": 46663
+            },
+            "m08": {
+                "valor": 25492800,
+                "quantidadeBeneficiados": 37412
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501707,
+        "flag": 19,
+        "codigoIBGE": 3501707,
+        "nomeIBGE": "Américo Brasiliense",
+        "uf": "SP",
+        "populacao": 41032,
+        "latitude": -21.7288,
+        "longitude": -48.1147,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 3610800,
+                "quantidadeBeneficiados": 4988
+            },
+            "m05": {
+                "valor": 5004600,
+                "quantidadeBeneficiados": 6971
+            },
+            "m06": {
+                "valor": 2836200,
+                "quantidadeBeneficiados": 3915
+            },
+            "m07": {
+                "valor": 5287800,
+                "quantidadeBeneficiados": 7492
+            },
+            "m08": {
+                "valor": 4256400,
+                "quantidadeBeneficiados": 6012
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501806,
+        "flag": 20,
+        "codigoIBGE": 3501806,
+        "nomeIBGE": "Américo de Campos",
+        "uf": "SP",
+        "populacao": 5981,
+        "latitude": -20.2985,
+        "longitude": -49.7359,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 882600,
+                "quantidadeBeneficiados": 1323
+            },
+            "m05": {
+                "valor": 1032000,
+                "quantidadeBeneficiados": 1544
+            },
+            "m06": {
+                "valor": 596400,
+                "quantidadeBeneficiados": 875
+            },
+            "m07": {
+                "valor": 1077000,
+                "quantidadeBeneficiados": 1630
+            },
+            "m08": {
+                "valor": 837000,
+                "quantidadeBeneficiados": 1263
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3501905,
+        "flag": 21,
+        "codigoIBGE": 3501905,
+        "nomeIBGE": "Amparo",
+        "uf": "SP",
+        "populacao": 72677,
+        "latitude": -22.7088,
+        "longitude": -46.772,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 5538600,
+                "quantidadeBeneficiados": 8118
+            },
+            "m05": {
+                "valor": 7701600,
+                "quantidadeBeneficiados": 11173
+            },
+            "m06": {
+                "valor": 4410000,
+                "quantidadeBeneficiados": 6534
+            },
+            "m07": {
+                "valor": 8224200,
+                "quantidadeBeneficiados": 12216
+            },
+            "m08": {
+                "valor": 6666600,
+                "quantidadeBeneficiados": 9886
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502002,
+        "flag": 22,
+        "codigoIBGE": 3502002,
+        "nomeIBGE": "Analândia",
+        "uf": "SP",
+        "populacao": 5056,
+        "latitude": -22.1289,
+        "longitude": -47.6619,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 538200,
+                "quantidadeBeneficiados": 748
+            },
+            "m05": {
+                "valor": 684600,
+                "quantidadeBeneficiados": 951
+            },
+            "m06": {
+                "valor": 433200,
+                "quantidadeBeneficiados": 586
+            },
+            "m07": {
+                "valor": 717000,
+                "quantidadeBeneficiados": 1006
+            },
+            "m08": {
+                "valor": 593400,
+                "quantidadeBeneficiados": 830
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502101,
+        "flag": 23,
+        "codigoIBGE": 3502101,
+        "nomeIBGE": "Andradina",
+        "uf": "SP",
+        "populacao": 57202,
+        "latitude": -20.8948,
+        "longitude": -51.3786,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 6516600,
+                "quantidadeBeneficiados": 9116
+            },
+            "m05": {
+                "valor": 8467800,
+                "quantidadeBeneficiados": 11838
+            },
+            "m06": {
+                "valor": 5196000,
+                "quantidadeBeneficiados": 7167
+            },
+            "m07": {
+                "valor": 8851800,
+                "quantidadeBeneficiados": 12668
+            },
+            "m08": {
+                "valor": 7239000,
+                "quantidadeBeneficiados": 10252
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502200,
+        "flag": 24,
+        "codigoIBGE": 3502200,
+        "nomeIBGE": "Angatuba",
+        "uf": "SP",
+        "populacao": 25479,
+        "latitude": -23.4917,
+        "longitude": -48.4139,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 3028200,
+                "quantidadeBeneficiados": 4463
+            },
+            "m05": {
+                "valor": 3843000,
+                "quantidadeBeneficiados": 5583
+            },
+            "m06": {
+                "valor": 2255400,
+                "quantidadeBeneficiados": 3269
+            },
+            "m07": {
+                "valor": 3993000,
+                "quantidadeBeneficiados": 5960
+            },
+            "m08": {
+                "valor": 3262200,
+                "quantidadeBeneficiados": 4840
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502309,
+        "flag": 25,
+        "codigoIBGE": 3502309,
+        "nomeIBGE": "Anhembi",
+        "uf": "SP",
+        "populacao": 6819,
+        "latitude": -22.793000000000003,
+        "longitude": -48.1336,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 1183800,
+                "quantidadeBeneficiados": 1638
+            },
+            "m05": {
+                "valor": 1425600,
+                "quantidadeBeneficiados": 1951
+            },
+            "m06": {
+                "valor": 838800,
+                "quantidadeBeneficiados": 1136
+            },
+            "m07": {
+                "valor": 1467000,
+                "quantidadeBeneficiados": 2057
+            },
+            "m08": {
+                "valor": 1170600,
+                "quantidadeBeneficiados": 1616
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502408,
+        "flag": 26,
+        "codigoIBGE": 3502408,
+        "nomeIBGE": "Anhumas",
+        "uf": "SP",
+        "populacao": 4144,
+        "latitude": -22.2934,
+        "longitude": -51.3895,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 628800,
+                "quantidadeBeneficiados": 958
+            },
+            "m05": {
+                "valor": 778200,
+                "quantidadeBeneficiados": 1153
+            },
+            "m06": {
+                "valor": 439200,
+                "quantidadeBeneficiados": 654
+            },
+            "m07": {
+                "valor": 803400,
+                "quantidadeBeneficiados": 1219
+            },
+            "m08": {
+                "valor": 630600,
+                "quantidadeBeneficiados": 957
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502507,
+        "flag": 27,
+        "codigoIBGE": 3502507,
+        "nomeIBGE": "Aparecida",
+        "uf": "SP",
+        "populacao": 36185,
+        "latitude": -22.8495,
+        "longitude": -45.2325,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 4461000,
+                "quantidadeBeneficiados": 6471
+            },
+            "m05": {
+                "valor": 6099600,
+                "quantidadeBeneficiados": 8838
+            },
+            "m06": {
+                "valor": 3568200,
+                "quantidadeBeneficiados": 5182
+            },
+            "m07": {
+                "valor": 6535200,
+                "quantidadeBeneficiados": 9647
+            },
+            "m08": {
+                "valor": 5316600,
+                "quantidadeBeneficiados": 7763
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502606,
+        "flag": 28,
+        "codigoIBGE": 3502606,
+        "nomeIBGE": "Aparecida d'Oeste",
+        "uf": "SP",
+        "populacao": 4158,
+        "latitude": -20.4487,
+        "longitude": -50.8835,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 670800,
+                "quantidadeBeneficiados": 961
+            },
+            "m05": {
+                "valor": 792000,
+                "quantidadeBeneficiados": 1134
+            },
+            "m06": {
+                "valor": 520800,
+                "quantidadeBeneficiados": 729
+            },
+            "m07": {
+                "valor": 816600,
+                "quantidadeBeneficiados": 1187
+            },
+            "m08": {
+                "valor": 692400,
+                "quantidadeBeneficiados": 995
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    },
+    {
+        "_id": 3502705,
+        "flag": 29,
+        "codigoIBGE": 3502705,
+        "nomeIBGE": "Apiaí",
+        "uf": "SP",
+        "populacao": 24226,
+        "latitude": -24.5108,
+        "longitude": -48.8443,
+        "mesRef": {
+            "m01": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m02": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m03": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m04": {
+                "valor": 4528800,
+                "quantidadeBeneficiados": 6574
+            },
+            "m05": {
+                "valor": 5332800,
+                "quantidadeBeneficiados": 7673
+            },
+            "m06": {
+                "valor": 3403800,
+                "quantidadeBeneficiados": 4843
+            },
+            "m07": {
+                "valor": 5386200,
+                "quantidadeBeneficiados": 7887
+            },
+            "m08": {
+                "valor": 4586400,
+                "quantidadeBeneficiados": 6630
+            },
+            "m09": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m10": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m11": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            },
+            "m12": {
+                "valor": 0,
+                "quantidadeBeneficiados": 0
+            }
+        }
+    }
+]

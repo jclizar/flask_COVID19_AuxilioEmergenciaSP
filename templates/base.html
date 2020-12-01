@@ -1,0 +1,32 @@
+{% block base %}
+
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>
+        {% block title %}
+        {% endblock %}
+      </title>
+
+      <!--Icone da página (fiveicon)-->
+      <link rel="icon" href="{{ url_for('static', filename='picture/logo.svg') }}">
+
+      <!--Bootstrap Css-->
+      <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap/css/bootstrap.min.css') }}">
+
+      <!--Css-->
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+    </head>
+    <body>
+        <script src="/static/jquery/jquery.js"></script>
+        
+        {% block body %}
+        {% endblock %}
+
+    </body>
+  </html>
+
+{% endblock %}

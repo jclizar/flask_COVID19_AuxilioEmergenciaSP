@@ -1,0 +1,59 @@
+{% extends 'menu.html' %} 
+
+{% block page %}     
+  <div class="d-flex flex-column align-items-center justify-content-center h-100">
+    <form class="sobre-equipe">
+      <div class="row justify-content-start align-items-center"> 
+        <div class="col">
+          <label class="title">
+            Sobre
+          </label> 
+        </div>           
+      </div>
+      <div class="row">
+        <div class="col">
+            <p class="elementos text-justify">
+              Sobre Esta aplicação tem por objetivo mostrar o paronamoral do estado de São Paulo 
+              em relação  a cobertura do auxilio 
+              emergencial destinado aos trabalhadores informais, microempreendedores 
+              individuais (MEI), autônomos e desempregados, no período de enfrentamento à 
+              crise causada pela pandemia. Para isso utilizou-se a API do portal de 
+              transparencia do Governo e a API do IBGE.
+            </p>
+        </div>
+      </div>
+
+      <div class="row justify-content-start align-items-center"> 
+        <div class="col">
+          <label class="title">
+            Desenvolvedores
+          </label> 
+        </div>           
+      </div>
+      <div class="row">
+        <div class="col-6">
+          <div class="d-flex flex-row align-items-center">
+            <div class="dev-img">
+              <img src="{{ url_for('static', filename='picture/jessica.png') }}">
+            </div>
+            <p class="elementos">
+              Jéssica Caroline Lizar
+              2840481723019
+            </p>
+          </div>
+        </div>
+        <div class="col-6">
+          <div class="d-flex flex-row align-items-center">
+            <div class="dev-img">
+              <img src="{{ url_for('static', filename='picture/cleiton.png') }}">
+            </div>
+            <p class="elementos">
+              Cleiton Venicius Fernandes
+              2840481611008
+            </p>
+          </div
+        </div>
+      
+    </form>
+  </div>
+{% endblock %}

@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+
+<!--Titulo-->
+{% block title%}
+  Cadastro
+{% endblock %}
+
+<!-- HTML-->
+{% block body %}
+  <div class="d-flex flex-column align-items-center justify-content-center h-100">
+    <form name="signup_form" class="cadastro">
+
+      <div class="row justify-content-center"> 
+        <label class="title">
+          Cadastro     
+        </label>
+        <br>
+      </div>
+    
+    
+      <div class="row justify-content-center">
+        <div class="col-8">
+          <div class="form-group">          
+            <!--<label class="elementos">Nome do Usuário</label>-->
+            <input name="name" type="text" class="form-control" placeholder="Nome do usuário" required>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div class="form-group">
+            <!--<label class="elementos">Senha</label>-->
+            <input name="password" type="password" class="form-control" placeholder="Senha" required>
+          </div>
+        </div> 
+      </div>              
+      
+      <div class="row justify-content-center">
+        <div class="col-8">
+          <div class="form-group">          
+            <!--<label class="elementos">Email</label>-->
+            <input  name="email" type="email" class="form-control" placeholder="Email" required>
+          </div>
+        </div>
+        <div class="col-4">
+          <div class="form-group">
+            <!--<label class="elementos">Confirmar Senha </label>-->
+            <input name="confirm_password" type="password" class="form-control" placeholder="Confirmar senha" required>
+          </div>
+        </div>
+      </div>         
+
+      <p class="error error--hidden">
+                  
+      </p>
+      <br>
+      <div align="center">
+        <input type="submit" value="Criar" class="btn btn-action" align="center" >
+      </div>
+  </form>
+</div>
+
+<script src="{{ url_for('static', filename='js/sign.js') }}"></script>
+{% endblock %}

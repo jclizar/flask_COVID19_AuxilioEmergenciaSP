@@ -1,0 +1,73 @@
+{% extends 'menu.html' %} 
+
+{%block title%}
+  Configuração
+{% endblock %}
+
+{% block page %}   
+<div class="d-flex flex-column align-items-center justify-content-center h-100">     
+  <form name="config_form" class="configuracoes">
+      <div class="row justify-content-start align-items-center"> 
+        <label class="title">
+          <div class="col">
+            Informações
+          </div>           
+        </label> 
+      </div>
+      <div class="row">
+        <div class="col-7">
+          <div class="form-group">          
+            <label class="elementos">Nome do usuário</label>
+            <input name="name" type="text" class="form-control" value="{{ session['user']['name'] }}" disabled required>
+          </div>
+        </div>
+        <div class="col-5">
+          <div class="form-group">
+            <label class="elementos">Senha</label>
+            <input name="password" type="password" class="form-control" value="{{ session['user']['password'] }}" disabled required>
+          </div>
+        </div>
+      </div>
+
+      
+      <div class="row">
+        <div class="col-7">
+          <div class="form-group">
+            <label class="elementos">Email</label>
+            <input name="email" type="email" class="form-control" value="{{ session['user']['email']}}" disabled>
+          </div>
+        </div>
+        <div class="col-5">
+          <div class="form-group">
+            <label class="elementos">Confirmar senha </label>
+            <input name="confirm_password" type="password" class="form-control"  disabled required>
+          </div>
+        </div>
+      </div>
+      <br>
+      <p class="msg msg--hidden">
+                      
+      </p>
+      <div class="row">
+        <div class="col-7">
+          <button name="del" type="button" class="btn btn-delete" onclick="deleteUser()">
+            Deletar Conta
+          </button>
+        </div>
+        <div class="col-5">
+          <div class="d-flex flex-row justify-content-between">
+          
+            <button type="button" class="btn btn-action" align="center" onclick="habilitarEditar()">
+              Editar/Cancelar
+            </button>
+
+            <button name="save" type="button" class="btn btn-action" align="center" onclick="updateSalvar()" disabled>
+              Salvar
+            </button>
+          </div>
+      </div>         
+  </form>  
+</div>   
+
+<script src="{{ url_for('static', filename='js/config.js') }}"></script>
+{% endblock %}

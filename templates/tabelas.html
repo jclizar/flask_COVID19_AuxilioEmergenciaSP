@@ -1,0 +1,42 @@
+{% extends 'menu.html' %} 
+
+{%block title%}
+  Tabela
+{% endblock %}
+
+{% block page %}   
+
+<!--Bootstrap-table CSS-->
+<link rel="stylesheet" href="{{ url_for('static', filename='bootstrap-table/bootstrap-table.min.css') }}">
+
+ 
+<form name="form-tables" class="form-tables w-100">    
+  <div class="row"> 
+    <div class="col-5">
+      <select name="table-option" class="form-control">
+        <option value="users">
+          Usuário
+        </option>
+        <option value="beneficioDataAPI">
+          API
+        </option>
+      </select>
+    </div>
+    <div class="col-7">
+      <button name="export-json" type="button" class="btn btn-action" align="center" onclick="export_json()">
+        json
+      </button>
+    </div>
+  </div>              
+</form>
+<div class="w-100">
+  <table class="table" name="tables"> <!--mostra tabela | class = table (bootstrap)-->
+  </table>
+</div>
+
+<!--Bootstrap-table JS-->
+<script src="{{ url_for('static', filename='bootstrap-table/bootstrap-table.min.js') }}"></script>
+<script src="{{ url_for('static', filename='bootstrap-table/locale/bootstrap-table-pt-BR.min.js') }}"></script> <!--linguagem tabela-->
+<!--JS da página-->
+<script src="{{ url_for('static', filename='js/tabelas.js') }}"></script>
+{% endblock %}

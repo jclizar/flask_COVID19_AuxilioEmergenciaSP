@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+<!--Titulo-->
+{% block title%}
+  Nova Senha
+{% endblock %}
+
+<!-- HTML-->
+{% block body %}
+
+<div class="d-flex flex-column align-items-center justify-content-center h-100">
+  <form action="#" name="novaSenha_form" class="nova-senha">
+    <div class="row justify-content-center align-items-center"> 
+      <label class="title">
+          Nova Senha  
+      </label>
+      <br><br>
+    </div>
+    
+    <div class="row justify-content-center">
+      <div class="col">
+        <div class="form-group">          
+          <!--<label label class="elementos">Senha</label>-->
+          <input name="password" type="password" class="form-control" placeholder="Senha" required>
+        </div>
+      </div>
+    </div>           
+     
+    
+    <div class="row justify-content-center">
+      <div class="col">
+        <div class="form-group">
+          <!--<label label class="elementos">Confirme a Senha</label>-->
+          <input name="confirm_password" type="password" class="form-control" placeholder="Confirmar Senha" required>
+        </div>
+      </div>
+     
+    </div>
+
+    <p class="error error--hidden">
+                      
+    </p>
+  
+    <div align="center">
+      <button type="submit" class="btn btn-action" align="center" >Criar</button>
+    </div>   
+  </form>
+</div>
+
+<script src="{{ url_for('static', filename='js/novaSenha.js') }}"></script>
+{% endblock %}

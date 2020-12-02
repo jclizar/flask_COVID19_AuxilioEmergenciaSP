@@ -75,8 +75,8 @@ class User:
 
         SMTP_SERVER = "smtp.mail.yahoo.com"
         SMTP_PORT = 587
-        SMTP_USERNAME = environ.get('USER_EMAIL')
-        SMTP_PASSWORD = environ.get('PASSWORD_EMAIL')
+        SMTP_USERNAME = os.environ.get('USER_EMAIL')
+        SMTP_PASSWORD = os.environ.get('PASSWORD_EMAIL')
 
          #EMAIL_SUBJECT = "Redefinir senha"
 

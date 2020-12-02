@@ -96,7 +96,7 @@ function carregar_grafio_por_mes_pie(data){
         type:"doughnut",
         data:
         {
-            labels:["Beneciados","População Município"],
+            labels:["Beneciados","Restante da população"],
             datasets:
             [
                 {

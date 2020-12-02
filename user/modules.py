@@ -120,7 +120,7 @@ class User:
         else:
             msg=f'''Olá {user['name']}!<br><br>
                     Clique no link abaixo para redefinir sua senha:<br>
-                    <a href="http://127.0.0.1:80/nova-senha/{user['_id']}">Link para redefinir senha</a>'''
+                    <a href="{request.url_root}nova-senha/{user['_id']}">Link para redefinir senha</a>'''
 
             self.mail(msg, 'Redefinir senha', user['email'],1)
 

@@ -1,7 +1,7 @@
 {% extends 'menu.html' %} 
 
 {% block page %}     
-  <div class="d-flex flex-column align-items-center justify-content-center h-100">
+  <div class="d-flex flex-column align-items-center justify-content-around h-100">
     <form class="sobre-equipe">
       <div class="row justify-content-start align-items-center"> 
         <div class="col">
@@ -22,38 +22,7 @@
             </p>
         </div>
       </div>
-
-      <div class="row justify-content-start align-items-center"> 
-        <div class="col">
-          <label class="title">
-            Desenvolvedores
-          </label> 
-        </div>           
-      </div>
-      <div class="row">
-        <div class="col-6">
-          <div class="d-flex flex-row align-items-center">
-            <div class="dev-img">
-              <img src="{{ url_for('static', filename='picture/jessica.png') }}">
-            </div>
-            <p class="elementos">
-              Jéssica Caroline Lizar
-              2840481723019
-            </p>
-          </div>
-        </div>
-        <div class="col-6">
-          <div class="d-flex flex-row align-items-center">
-            <div class="dev-img">
-              <img src="{{ url_for('static', filename='picture/cleiton.png') }}">
-            </div>
-            <p class="elementos">
-              Cleiton Venicius Fernandes
-              2840481611008
-            </p>
-          </div
-        </div>
-      
     </form>
+    <div class="h-50'"></div>
   </div>
 {% endblock %}

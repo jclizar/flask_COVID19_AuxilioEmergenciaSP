@@ -1,4 +1,4 @@
-Sobre Esta aplicação tem por objetivo mostrar o paronamoral do estado de São Paulo 
+Esta aplicação tem por objetivo mostrar o paronamora do estado de São Paulo 
 em relação  a cobertura do auxilio 
 emergencial destinado aos trabalhadores informais, microempreendedores 
 individuais (MEI), autônomos e desempregados, no período de enfrentamento à 

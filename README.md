@@ -7,9 +7,16 @@
 
 > Para isso utilizou-se as APIs do portal de transparencia do Governo e do IBGE, para coleta de dados do período de abril a agosto de 2020.
 
-- Exemplo: Máximo de Beneficiados pelo Auxílio Emergencial (Abril-Agosto)
+- Exemplo: Máximo de Beneficiados pelo Auxílio Emergencial de abril-agosto (2020).
 <div width="100%" align="center">
 <img src="map_readme.PNG" width="90%" ></div>
+
+# Principais tecnologias utilizadas
+- Framework flask 1.1.2
+- Bootstrap 4.5.3
+- Folium 0.11.0
+- Python 3.6
+- MongoDB
 
 # Regras do projeto
 
@@ -31,6 +38,6 @@ JSON. O arquivo deve ser compactado no formato zip. (plus)
     - Os dados devem ser disponibilizados em um endereço da web.
     - Usar o módulo Requests ou URLlib.
     - Armazenar os dados importados em uma tabela.
-    o=- Apresentar os dados importados em uma UI da aplicação.
+    - Apresentar os dados importados em uma UI da aplicação.
 
 

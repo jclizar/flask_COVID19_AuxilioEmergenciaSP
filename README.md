@@ -11,7 +11,7 @@
 <div width="100%" align="center">
 <img src="map_readme.PNG" width="90%" ></div>
 
-# Principais tecnologias utilizadas
+# Principais tecnologias
 - Framework flask 1.1.2
 - Bootstrap 4.5.3
 - Folium 0.11.0
@@ -20,21 +20,22 @@
 
 # Regras do projeto
 
-- Implementar uma aplicação Python que contenha pelo menos 5 interfaces gráficas (UI).
+1) <strong>Implementar uma aplicação Python que contenha pelo menos 5 interfaces gráficas (UI).</strong>
     -  O tipo de UI pode ser definido pelos integrantes: Console, Formulário ou Web.
-- Armazenar dados de maneira persistente utilizando o SGBD da sua preferência.
+2) <strong>Armazenar dados de maneira persistente utilizando o SGBD da sua preferência.</strong>
     - Os dados precisam ser armazenados em pelo menos um tabelas.
     - Para cada tabela codificar na UI no mínimo três operações, dentre elas:
         - Insert, Update, Delete e Select
-- Elaborar as seguintes UI (plus):
-    -  Login: em que o usuário deverá fornecer um nome de usuário e uma senha. O acesso as funcionalidades do sistema ocorrem apenas para usuários previamente
+3) <strong>Elaborar as seguintes UI (plus):</strong>
+    -  <u>Login:</u> em que o usuário deverá fornecer um nome de usuário e uma senha. O acesso as funcionalidades do sistema ocorrem apenas para usuários previamente
 cadastrados.
-    - Sobre: que apresente dados do projeto {tema escolhido e objetivo} e dos
+    - <u>Sobre:</u> que apresente dados do projeto {tema escolhido e objetivo} e dos
 desenvolvedores.
-    - Menu: em que o usuário poderá escolher a opção desejada da aplicação.
-- Implementar uma funcionalidade que exporta todos os dados da aplicação no formato
-JSON. O arquivo deve ser compactado no formato zip. (plus)
-- Implementar uma funcionalidade para importa dados. (plus)
+    - <u>Menu:</u> em que o usuário poderá escolher a opção desejada da aplicação.
+4) <strong>Implementar uma funcionalidade que exporta todos os dados da aplicação no formato
+JSON.</strong>
+    - O arquivo deve ser compactado no formato zip. (plus)
+5) <strong>Implementar uma funcionalidade para importa dados. (plus)</strong>
     - Os dados devem ser disponibilizados em um endereço da web.
     - Usar o módulo Requests ou URLlib.
     - Armazenar os dados importados em uma tabela.
